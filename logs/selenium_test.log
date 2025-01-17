@@ -1,0 +1,25 @@
+2025-01-15 19:53:45 INFO  testCases.PhysicalOrder - Browser initialized and navigated to URL: https://uat.zeppsandbox.com/custompage/index/checklogin/?login=login_2JWu3NATnkG65ku7QAMPDemQ8PbqsUlR
+2025-01-15 19:53:45 INFO  testCases.PhysicalOrder - Searching for product: test product not for sell
+2025-01-15 19:53:49 INFO  testCases.PhysicalOrder - Selected product: test product not for sell
+2025-01-15 19:53:52 INFO  testCases.PhysicalOrder - Clicked on Buy Now
+2025-01-15 19:54:23 INFO  testCases.PhysicalOrder - Navigating to shipping next page
+2025-01-15 19:54:24 INFO  testCases.PhysicalOrder - Selected payment method: Cashfree
+2025-01-15 19:54:24 INFO  testCases.PhysicalOrder - Terms and conditions clicked
+2025-01-15 19:54:24 INFO  testCases.PhysicalOrder - Proceeding to Cashfree payment
+2025-01-15 19:54:31 INFO  testCases.PhysicalOrder - Selected UPI payment method
+2025-01-15 19:54:44 INFO  testCases.PhysicalOrder - Entered UPI ID: testsuccess@gocash
+2025-01-15 19:54:45 INFO  testCases.PhysicalOrder - Clicked Proceed to Pay
+2025-01-15 19:55:22 INFO  testCases.PhysicalOrder - Order ID: 020001676
+2025-01-17 17:49:41 INFO  testCases.PhysicalOrder - Browser initialized and navigated to URL: https://uat.zeppsandbox.com/custompage/index/checklogin/?login=login_2JWu3NATnkG65ku7QAMPDemQ8PbqsUlR
+2025-01-17 17:49:41 INFO  testCases.PhysicalOrder - Searching for product: test product not for sell
+2025-01-17 17:49:45 INFO  testCases.PhysicalOrder - Selected product: test product not for sell
+2025-01-17 17:49:48 INFO  testCases.PhysicalOrder - Clicked on Buy Now
+2025-01-17 17:50:02 INFO  testCases.PhysicalOrder - Navigating to shipping next page
+2025-01-17 17:50:03 INFO  testCases.PhysicalOrder - Selected payment method: Cashfree
+2025-01-17 17:50:04 INFO  testCases.PhysicalOrder - Terms and conditions clicked
+2025-01-17 17:50:04 INFO  testCases.PhysicalOrder - Proceeding to Cashfree payment
+2025-01-17 17:50:12 INFO  testCases.PhysicalOrder - Selected UPI payment method
+2025-01-17 17:50:21 INFO  testCases.PhysicalOrder - Entered UPI ID: testsuccess@gocash
+2025-01-17 17:50:22 INFO  testCases.PhysicalOrder - Clicked Proceed to Pay
+2025-01-17 17:50:56 INFO  testCases.PhysicalOrder - Order ID: 020001763
+2025-01-17 17:50:57 INFO  testCases.PhysicalOrder - Driver closed successfully.

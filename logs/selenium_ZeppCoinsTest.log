@@ -1,0 +1,52 @@
+2025-01-16 13:14:40 INFO  testCases.PhysicalOrder - Browser initialized and navigated to URL: https://uat.zeppsandbox.com/custompage/index/checklogin/?login=login_2JWu3NATnkG65ku7QAMPDemQ8PbqsUlR
+2025-01-16 13:14:40 INFO  testCases.PhysicalOrder - Starting test: OrderCreationWithZeppCoins
+2025-01-16 13:14:41 INFO  testCases.PhysicalOrder - Navigated to URL: https://uat.zeppsandbox.com/custompage/index/checklogin/?login=login_2JWu3NATnkG65ku7QAMPDemQ8PbqsUlR
+2025-01-16 13:14:41 INFO  testCases.PhysicalOrder - Search bar located.
+2025-01-16 13:14:42 INFO  testCases.PhysicalOrder - Entered product name in search bar: iFrogz Audio- Ear Pollution Plugz with Mic - Red
+2025-01-16 13:14:48 INFO  testCases.PhysicalOrder - Search submitted.
+2025-01-16 13:14:48 INFO  testCases.PhysicalOrder - Selected product: iFrogz Audio- Ear Pollution Plugz with Mic - Red
+2025-01-16 13:14:51 INFO  testCases.PhysicalOrder - Clicked on 'Buy Now' button.
+2025-01-16 13:14:57 INFO  testCases.PhysicalOrder - Page refreshed after clicking 'Buy Now'.
+2025-01-16 13:14:57 INFO  testCases.PhysicalOrder - Scrolled down for shipping step.
+2025-01-16 13:14:57 INFO  testCases.PhysicalOrder - Clicked 'Next' on the shipping page.
+2025-01-16 13:14:57 INFO  testCases.PhysicalOrder - Retrieved available Zepp Coins: 2885
+2025-01-16 13:14:59 INFO  testCases.PhysicalOrder - Converted Zepp Coins to integer: 2885
+2025-01-16 13:14:59 INFO  testCases.PhysicalOrder - Sufficient Zepp Coins available to apply.
+2025-01-16 13:15:29 INFO  testCases.PhysicalOrder - Opened 'Apply ZEPP Coins' section.
+2025-01-16 13:15:30 INFO  testCases.PhysicalOrder - Entered Zepp Coins amount: 100
+2025-01-16 13:15:30 INFO  testCases.PhysicalOrder - Clicked on 'Apply' for Zepp Coins.
+2025-01-16 13:16:00 INFO  testCases.PhysicalOrder - Zepp Coins applied successfully without any errors.
+2025-01-16 13:16:00 INFO  testCases.PhysicalOrder - Selected 'Cashfree' as payment method.
+2025-01-16 13:16:00 INFO  testCases.PhysicalOrder - Scrolled down for payment step.
+2025-01-16 13:16:01 INFO  testCases.PhysicalOrder - Agreed to terms and conditions.
+2025-01-16 13:16:01 INFO  testCases.PhysicalOrder - Proceeded to payment step.
+2025-01-16 13:16:01 INFO  testCases.PhysicalOrder - Scrolled down for UPI payment method.
+2025-01-16 13:16:31 INFO  testCases.PhysicalOrder - Driver closed successfully.
+2025-01-17 18:10:17 INFO  testCases.PhysicalOrder - Browser initialized and navigated to URL: https://uat.zeppsandbox.com/custompage/index/checklogin/?login=login_2JWu3NATnkG65ku7QAMPDemQ8PbqsUlR
+2025-01-17 18:10:17 INFO  testCases.PhysicalOrder - Starting test: OrderCreationWithZeppCoins
+2025-01-17 18:10:18 INFO  testCases.PhysicalOrder - Navigated to URL: https://uat.zeppsandbox.com/custompage/index/checklogin/?login=login_2JWu3NATnkG65ku7QAMPDemQ8PbqsUlR
+2025-01-17 18:10:18 INFO  testCases.PhysicalOrder - Search bar located.
+2025-01-17 18:10:19 INFO  testCases.PhysicalOrder - Entered product name in search bar: iFrogz Audio- Ear Pollution Plugz with Mic - Red
+2025-01-17 18:10:24 INFO  testCases.PhysicalOrder - Search submitted.
+2025-01-17 18:10:25 INFO  testCases.PhysicalOrder - Selected product: iFrogz Audio- Ear Pollution Plugz with Mic - Red
+2025-01-17 18:10:27 INFO  testCases.PhysicalOrder - Clicked on 'Buy Now' button.
+2025-01-17 18:11:05 INFO  testCases.PhysicalOrder - Page refreshed after clicking 'Buy Now'.
+2025-01-17 18:11:05 INFO  testCases.PhysicalOrder - Scrolled down for shipping step.
+2025-01-17 18:11:07 INFO  testCases.PhysicalOrder - Clicked 'Next' on the shipping page.
+2025-01-17 18:11:07 INFO  testCases.PhysicalOrder - Retrieved available Zepp Coins: 2001
+2025-01-17 18:11:07 INFO  testCases.PhysicalOrder - Converted Zepp Coins to integer: 2001
+2025-01-17 18:11:07 INFO  testCases.PhysicalOrder - Sufficient Zepp Coins available to apply.
+2025-01-17 18:11:38 INFO  testCases.PhysicalOrder - Opened 'Apply ZEPP Coins' section.
+2025-01-17 18:11:38 INFO  testCases.PhysicalOrder - Entered Zepp Coins amount: 100
+2025-01-17 18:11:38 INFO  testCases.PhysicalOrder - Clicked on 'Apply' for Zepp Coins.
+2025-01-17 18:12:08 INFO  testCases.PhysicalOrder - Zepp Coins applied successfully without any errors.
+2025-01-17 18:12:38 INFO  testCases.PhysicalOrder - Selected 'Cashfree' as payment method.
+2025-01-17 18:12:38 INFO  testCases.PhysicalOrder - Scrolled down for payment step.
+2025-01-17 18:12:39 INFO  testCases.PhysicalOrder - Agreed to terms and conditions.
+2025-01-17 18:12:39 INFO  testCases.PhysicalOrder - Proceeded to payment step.
+2025-01-17 18:12:39 INFO  testCases.PhysicalOrder - Scrolled down for UPI payment method.
+2025-01-17 18:12:47 INFO  testCases.PhysicalOrder - Selected UPI payment method.
+2025-01-17 18:13:00 INFO  testCases.PhysicalOrder - Entered UPI ID: testsuccess@gocash
+2025-01-17 18:13:01 INFO  testCases.PhysicalOrder - Clicked on 'Proceed to Pay' button.
+2025-01-17 18:13:36 INFO  testCases.PhysicalOrder - Order successfully created. Order ID: 020001769
+2025-01-17 18:13:37 INFO  testCases.PhysicalOrder - Driver closed successfully.

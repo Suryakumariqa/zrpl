@@ -1,0 +1,55 @@
+2025-01-16 12:25:10 INFO  testCases.PhysicalOrder - Browser initialized and navigated to URL: https://uat.zeppsandbox.com/custompage/index/checklogin/?login=login_2JWu3NATnkG65ku7QAMPDemQ8PbqsUlR
+2025-01-16 12:25:10 INFO  testCases.PhysicalOrder - Order creation with discount coupon test started.
+2025-01-16 12:25:10 INFO  testCases.PhysicalOrder - Searching for product: iFrogz Audio- Ear Pollution Plugz with Mic - Red
+2025-01-16 12:25:15 INFO  testCases.PhysicalOrder - Product search submitted.
+2025-01-16 12:25:15 INFO  testCases.PhysicalOrder - Selected product: iFrogz Audio- Ear Pollution Plugz with Mic - Red
+2025-01-16 12:25:18 INFO  testCases.PhysicalOrder - Extracting discount details from product page.
+2025-01-16 12:25:18 INFO  testCases.PhysicalOrder - Discount Found: 3%, Coupon Code: DISCOUNT3
+2025-01-16 12:25:18 INFO  testCases.PhysicalOrder - Discount Found: 5%, Coupon Code: UPIDISCOUNT5
+2025-01-16 12:25:18 INFO  testCases.PhysicalOrder - Discount Found: 10%, Coupon Code: UPIDISCOUNT10
+2025-01-16 12:25:18 INFO  testCases.PhysicalOrder - Best discount selected: 10% with Coupon Code: UPIDISCOUNT10
+2025-01-16 12:25:19 INFO  testCases.PhysicalOrder - Clicked on Buy Now.
+2025-01-16 12:25:24 INFO  testCases.PhysicalOrder - Refreshed the checkout page.
+2025-01-16 12:25:25 INFO  testCases.PhysicalOrder - Navigated to shipping step.
+2025-01-16 12:25:26 INFO  testCases.PhysicalOrder - Opened discount dropdown.
+2025-01-16 12:26:27 INFO  testCases.PhysicalOrder - No existing coupon to cancel.
+2025-01-16 12:26:27 INFO  testCases.PhysicalOrder - Applied best coupon code: UPIDISCOUNT10
+2025-01-16 12:26:27 INFO  testCases.PhysicalOrder - Clicked on Apply button for coupon.
+2025-01-16 12:26:29 INFO  testCases.PhysicalOrder - Loading mask disappeared after applying coupon.
+2025-01-16 12:26:29 INFO  testCases.PhysicalOrder - Selected payment method: Cashfree.
+2025-01-16 12:26:29 INFO  testCases.PhysicalOrder - Scrolled down for terms and conditions.
+2025-01-16 12:26:29 INFO  testCases.PhysicalOrder - Agreed to terms and conditions.
+2025-01-16 12:26:30 INFO  testCases.PhysicalOrder - Proceeded to Cashfree payment.
+2025-01-16 12:26:30 INFO  testCases.PhysicalOrder - Scrolled down for UPI payment.
+2025-01-16 12:26:38 INFO  testCases.PhysicalOrder - Selected UPI payment method.
+2025-01-16 12:26:48 INFO  testCases.PhysicalOrder - Entered UPI ID: testsuccess@gocash
+2025-01-16 12:26:51 INFO  testCases.PhysicalOrder - Clicked Proceed to Pay.
+2025-01-16 12:27:26 INFO  testCases.PhysicalOrder - Order successfully created. Order ID: 020001688
+2025-01-17 17:54:39 INFO  testCases.PhysicalOrder - Browser initialized and navigated to URL: https://uat.zeppsandbox.com/custompage/index/checklogin/?login=login_2JWu3NATnkG65ku7QAMPDemQ8PbqsUlR
+2025-01-17 17:54:39 INFO  testCases.PhysicalOrder - Order creation with discount coupon test started.
+2025-01-17 17:54:39 INFO  testCases.PhysicalOrder - Searching for product: iFrogz Audio- Ear Pollution Plugz with Mic - Red
+2025-01-17 17:54:44 INFO  testCases.PhysicalOrder - Product search submitted.
+2025-01-17 17:54:44 INFO  testCases.PhysicalOrder - Selected product: iFrogz Audio- Ear Pollution Plugz with Mic - Red
+2025-01-17 17:54:47 INFO  testCases.PhysicalOrder - Extracting discount details from product page.
+2025-01-17 17:54:47 INFO  testCases.PhysicalOrder - Discount Found: 3%, Coupon Code: DISCOUNT3
+2025-01-17 17:54:47 INFO  testCases.PhysicalOrder - Discount Found: 5%, Coupon Code: UPIDISCOUNT5
+2025-01-17 17:54:47 INFO  testCases.PhysicalOrder - Discount Found: 10%, Coupon Code: UPIDISCOUNT10
+2025-01-17 17:54:47 INFO  testCases.PhysicalOrder - Best discount selected: 10% with Coupon Code: UPIDISCOUNT10
+2025-01-17 17:54:47 INFO  testCases.PhysicalOrder - Clicked on Buy Now.
+2025-01-17 17:54:49 INFO  testCases.PhysicalOrder - Refreshed the checkout page.
+2025-01-17 17:55:04 INFO  testCases.PhysicalOrder - Navigated to shipping step.
+2025-01-17 17:55:05 INFO  testCases.PhysicalOrder - Opened discount dropdown.
+2025-01-17 17:56:05 INFO  testCases.PhysicalOrder - No existing coupon to cancel.
+2025-01-17 17:56:05 INFO  testCases.PhysicalOrder - Applied best coupon code: UPIDISCOUNT10
+2025-01-17 17:56:05 INFO  testCases.PhysicalOrder - Clicked on Apply button for coupon.
+2025-01-17 17:56:07 INFO  testCases.PhysicalOrder - Loading mask disappeared after applying coupon.
+2025-01-17 17:56:07 INFO  testCases.PhysicalOrder - Selected payment method: Cashfree.
+2025-01-17 17:56:07 INFO  testCases.PhysicalOrder - Scrolled down for terms and conditions.
+2025-01-17 17:56:08 INFO  testCases.PhysicalOrder - Agreed to terms and conditions.
+2025-01-17 17:56:08 INFO  testCases.PhysicalOrder - Proceeded to Cashfree payment.
+2025-01-17 17:56:08 INFO  testCases.PhysicalOrder - Scrolled down for UPI payment.
+2025-01-17 17:56:14 INFO  testCases.PhysicalOrder - Selected UPI payment method.
+2025-01-17 17:56:25 INFO  testCases.PhysicalOrder - Entered UPI ID: testsuccess@gocash
+2025-01-17 17:56:28 INFO  testCases.PhysicalOrder - Clicked Proceed to Pay.
+2025-01-17 17:57:03 INFO  testCases.PhysicalOrder - Order successfully created. Order ID: 020001764
+2025-01-17 17:57:03 INFO  testCases.PhysicalOrder - Driver closed successfully.

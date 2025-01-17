@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-17T18:10:10 IST" name="Default suite" finished-at="2025-01-17T18:13:37 IST" duration-ms="207025">
+    <groups>
+    </groups>
+    <test started-at="2025-01-17T18:10:10 IST" name="Default test" finished-at="2025-01-17T18:13:37 IST" duration-ms="207025">
+      <class name="testCases.PhysicalOrder">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.PhysicalOrder@6f2cb653]" started-at="2025-01-17T18:10:10 IST" name="setUp" finished-at="2025-01-17T18:10:17 IST" duration-ms="7102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="OrderCreationWithZeppCoins()[pri:2, instance:testCases.PhysicalOrder@6f2cb653]" started-at="2025-01-17T18:10:17 IST" name="OrderCreationWithZeppCoins" finished-at="2025-01-17T18:13:36 IST" duration-ms="199672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderCreationWithZeppCoins -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:testCases.PhysicalOrder@6f2cb653]" started-at="2025-01-17T18:13:36 IST" name="closure" finished-at="2025-01-17T18:13:37 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- testCases.PhysicalOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+2025-01-17 16:46:01 INFO  testCases.PhysicalOrder - Browser initialized and navigated to URL: https://uat.zeppsandbox.com/custompage/index/checklogin/?login=login_2JWu3NATnkG65ku7QAMPDemQ8PbqsUlR
+2025-01-17 16:46:01 INFO  testCases.PhysicalOrder - Searching for product: test product not for sell
+2025-01-17 16:46:10 INFO  testCases.PhysicalOrder - Selected product: test product not for sell
+2025-01-17 16:46:30 INFO  testCases.PhysicalOrder - Clicked on Buy Now
+2025-01-17 16:46:58 INFO  testCases.PhysicalOrder - Navigating to shipping next page
+2025-01-17 16:47:00 INFO  testCases.PhysicalOrder - Selected payment method: Cashfree
+2025-01-17 16:47:00 INFO  testCases.PhysicalOrder - Terms and conditions clicked
+2025-01-17 16:47:00 INFO  testCases.PhysicalOrder - Proceeding to Cashfree payment
+2025-01-17 16:47:07 INFO  testCases.PhysicalOrder - Selected UPI payment method
+2025-01-17 16:47:21 INFO  testCases.PhysicalOrder - Entered UPI ID: testsuccess@gocash
+2025-01-17 16:47:22 INFO  testCases.PhysicalOrder - Clicked Proceed to Pay
+2025-01-17 16:47:57 INFO  testCases.PhysicalOrder - Order ID: 020001760
+2025-01-17 16:47:58 INFO  testCases.PhysicalOrder - Driver closed successfully.
